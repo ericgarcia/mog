@@ -490,6 +490,7 @@
 }
 
 .home-caption7 {
+  color: #ffffff;
   width: 100%;
   font-size: 18px;
   max-width: 600px;
@@ -658,7 +659,6 @@
   }
 
   .home-caption7 {
-    color: #ffffff;
     font-size: 16px;
     max-width: 70%;
     line-height: 24px;
