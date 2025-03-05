@@ -500,6 +500,8 @@
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  width: 429px;
+  height: 95px;
 }
 
 .home-image18 {
@@ -661,8 +663,6 @@
   }
 
   .home-container3 {
-    width: 429px;
-    height: 95px;
     margin-right: 0px;
   }
 }
